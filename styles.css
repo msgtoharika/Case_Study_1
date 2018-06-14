@@ -1,0 +1,143 @@
+.left-part{
+    background: #F0E8E0;
+    height: 100%;
+    padding: 0px;
+ }
+ 
+ 
+ #ajax_content {
+    padding-top: 20px;
+ }
+  
+ .text-main{
+    text-transform: uppercase;
+    letter-spacing: 9px;
+ }
+ 
+ .text-sub{
+    text-transform: uppercase;
+ }
+ 
+ body{
+     font-family: Roboto, system-ui, sans-serif;
+     padding: 10px;
+ }
+ 
+ .text-main h3{
+    font-size: 15px;
+    color: #FFFFFF;
+    padding: 5px;
+ }
+
+ .text-sub h4{
+    font-size: 11px;
+    letter-spacing: 3px;
+    color: #BDBDBD;
+    padding: 5px;
+ }
+ 
+ .text-content p{
+    font-size: 11px;
+    line-height: 16px;
+    color: #BCBCBC;
+    padding : 5px;
+ }
+ 
+ 
+ .right-column h4{
+    text-transform: uppercase;
+    width: 20px;
+    font-weight: bold;
+    font-size: 9px;
+    letter-spacing: 2px;
+    line-height: 11px;
+ }
+ 
+ .right-content p{
+    color: #D1D1D1;
+    padding-top: 5px;
+ }
+  
+ .right-main h4{
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-size: 10px;
+    width: 90px;
+    line-height: 13px;
+    font-weight: 900;
+ }
+     
+ .right-main {
+    border-bottom: 4px solid #F7F7F7;
+ }
+ 
+ .right-background { 
+    padding-top: 50px;
+ 
+ }
+ 
+ .left-paragraph {
+    margin-top: 50px;
+    text-transform: uppercase;
+    font-size: 9px;
+ }
+  
+ .left-sub ul li {
+     color: #CCC5BF;
+ }
+ 
+ p , h6{
+    color: #CCC5BF;
+    padding: 3px;
+ }
+ 
+ 
+ .right-main-3{
+    border-bottom: 4px solid #F7F7F7;
+ }
+ 
+ 
+ .right-main-3 h4{
+    font-size: 10px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-weight: bold;
+ 
+ }
+ 
+ li::before {
+    content: "\2022";
+    color: black; 
+    font-size: 19px;
+    padding-left: 16px;
+    padding-right: 8px;
+ }
+ 
+ .left-paragraph{
+    background-color: #878787;
+    font-size: 13px;
+    color: #FFFFFF;
+    text-align: center;
+    padding: 5px;
+ }
+
+ .left-background{
+   background-color: #878787;
+   clip-path: polygon(0 0%, 100% 0, 100% 64%, 0 99%);
+   height: 50vh;
+   padding-left: 10px;
+   padding-top: 15px;
+}
+  
+ ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+ }
+
+ .background-para{
+    color: #CCC5BF;
+    padding: 3px;
+ }
+ 
+ 
